@@ -22,7 +22,7 @@ If you've also got a Linux-based VPS, and you've set up an SSH key with the serv
 - Cron has an explainer about how to format your jobs, follow that.
 
 You'll notice all file locations in this script are referennced from the server's root folder.
-You'll need to change the file locations inside the python script, to the same file path that Cron uses, where mine say - /home/userName/python/emailScraper/
+You'll need to change the file locations inside the python script, to the same file path that Cron uses, where mine say ```/home/userName/python/emailScraper/```
 
 Hope this script saves you some sanity.
 
