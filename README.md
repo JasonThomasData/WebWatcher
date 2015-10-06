@@ -24,8 +24,17 @@ If you've also got a Linux-based VPS, and you've set up an SSH key with the serv
 You'll notice all file locations in this script are referennced from the server's root folder.
 You'll need to change the file locations inside the python script, to the same file path that Cron uses, where mine say ```/home/userName/python/webWatcher/```
 
+Your CSV takes:
+- Every row as a website's to scrape
+- Every row has three cells
+- The first cell is the URL of the site to scrape
+- The second cell is the element identifier to look for, eg, the ID or the class.
+- The third cell is the name of the element's class or ID
+- If you just want to scrape the whole page, enter null in the second and third cells for each row. Then the scraper will look for the html's body
+
 Hope this script saves you some sanity.
 
 TO DO
 - Fix the bug that says some websites couldn't scrape, then saves them. I'm catching an error in the wrong spot.
+- Fix the bug that won't save sites (possibly same bug)
 - Add a function to push the results to an SQL database, and use Flask to create html templates from those results. So, lists of people can choose to receive emails or check a website, or both.
