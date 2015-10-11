@@ -1,36 +1,35 @@
-http://www.science.org.au/completed-project-reports,class,view-content
-https://aifs.gov.au/publications,class,search-results aifs_content-results
-http://www.aims.gov.au/docs/media/latest-news,id,column-1
-http://www.alrc.gov.au/,class,item-list
-http://www.csiro.au/en/News/News-releases,class,main-content
-http://www.anao.gov.au/Publications/Audit-Reports,class,expanding articles
-http://www.donatelife.gov.au/national-performance-data,class,field-item even
-http://imos.org.au/743.html,class,_h7l
-http://arena.gov.au/,id,updates
-https://wikileaks.org/index.en.html,class,news-box
-http://www.asd.gov.au/publications/index.htm#tabs-3,id,tabs-3
-http://www.asbc.gov.au/,class,welcome grid-4
-http://www.atsb.gov.au/publications/publications-list.aspx?s=1&publicationType=Statistical%20Publication,class,selectable_grid
-http://www.chiefscientist.gov.au/category/archives/media-releases/,id,feed
-http://www.cleanenergyfinancecorp.com.au/,class,sixcol
-http://www.cdpp.gov.au/publications/,class,columns eleven right
-http://www.aer.gov.au/publications/enforcement-matters,class,views-table cols-4
-http://www.aer.gov.au/publications/state-of-the-energy-market-reports,id,node-455
-http://www.firb.gov.au/content/publications.asp?NavID=5,class,downloads
-http://www.ga.gov.au/data-pubs/new-releases,id,content_div_8505
-http://www.greenpower.gov.au/#,class,home-news
-http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/vaccination-data,id,read
-http://www.iba.gov.au/issue/current-stories/,id,content
-http://www.ilc.gov.au/Home/Media/Media-Releases,id,mediaReleaseListing
-http://www.ncver.edu.au/wps/portal/vetdataportal/ncverhome/newsandevents/media/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOI9DY2cPTxMDLwM_AJcDTzNgzzM_Lw8jA0sDIAKIoEKAjzczYycgAosPHwNDDz9goPcfF2DjQ28zUnUb2AZ6AJUYASU9gkwNPA2pcx-AzPi9BvgAI4GhPSH60eBleALAVQFWLyI1wSQH8AK8DiyIDc0NDTCINMzXVERAAAcYqA!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/,id,snippets
-http://www.aclei.gov.au/Pages/Reports-submissions-and-speeches.aspx,class,article article-body 
-http://www.oaic.gov.au/,id,rt-content-top 
-http://www.hcourt.gov.au/publications/speeches/current/speeches-by-chief-justice-french-ac,class,itemFullText
-http://www.humanrights.gov.au/news/media-releases,class,view-content 
-http://www.ombudsman.gov.au/submissions/,id,article 
-http://www.ombudsman.gov.au/media-releases/,id,article 
-http://www.treasury.gov.au/PublicationsAndMedia/Publications,id,divFullWidthResults 
-https://www.wgea.gov.au/news-and-media/media-releases,id,media 
-http://www.ntc.gov.au/publications/,id,content 
-http://www.dpmc.gov.au/publications,class,region-inner region-content-inner 
-http://www.phio.org.au/whats-new/whats-new.aspx,id,col-main 
+http://www.aer.gov.au/publications/enforcement-matters,div,class,view-content
+http://www.aer.gov.au/publications/state-of-the-energy-market-reports,div,id,node-455
+http://www.ombudsman.gov.au/submissions/,div,class,wrapper
+http://www.ombudsman.gov.au/media-releases/,div,class,wrapper
+http://www.treasury.gov.au/PublicationsAndMedia/Publications,div,id,divFullWidthResults
+https://www.wgea.gov.au/news-and-media/media-releases,li,class,level-1 active
+http://www.ntc.gov.au/publications/,div,class,content
+http://www.dpmc.gov.au/publications,div,class,view-content
+http://www.phio.org.au/whats-new/whats-new.aspx,div,id,col-main
+http://www.science.org.au/completed-project-reports,div,class,view-content
+https://aifs.gov.au/publications,div,class,search-results aifs_content-results
+http://www.aims.gov.au/docs/media/latest-news,div,id,column-1
+http://www.alrc.gov.au/,div,class,item-list
+http://www.csiro.au/en/News/News-releases,div,class,main-content
+http://www.anao.gov.au/Publications/Audit-Reports,ul,class,expanding inProgress articles
+http://www.donatelife.gov.au/national-performance-data,div,class,field-item even
+http://arena.gov.au/,ol,id,updates
+https://wikileaks.org/index.en.html,div,class,news-box
+http://www.asd.gov.au/publications/index.htm#tabs-3,div,id,tabs-3
+http://www.asbc.gov.au/,div,class,bg-green
+http://www.atsb.gov.au/publications/publications-list.aspx?s=1&publicationType=Statistical%20Publication,table,class,selectable_grid
+http://www.chiefscientist.gov.au/category/archives/media-releases/,div,id,feed
+http://www.cleanenergyfinancecorp.com.au/,div,class,sixcol
+http://www.cdpp.gov.au/publications/,div,class,columns eleven right
+http://www.firb.gov.au/content/publications.asp?NavID=5,table,class,downloads
+http://www.ga.gov.au/data-pubs/new-releases,div,id,content_div_8505
+http://www.greenpower.gov.au/#,div,class,home-news
+http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/vaccination-data,div,id,read
+http://www.iba.gov.au/issue/current-stories/,div,id,content
+http://www.ilc.gov.au/Home/Media/Media-Releases,div,id,mediaReleaseListing
+http://www.ncver.edu.au/wps/portal/vetdataportal/ncverhome/newsandevents/media/,div,id,snippets
+http://www.aclei.gov.au/Pages/Reports-submissions-and-speeches.aspx,div,id,ctl00_MSO_ContentDiv
+http://www.oaic.gov.au/,div,class,rt-grid-3 rt-omega
+http://www.hcourt.gov.au/publications/speeches/current/speeches-by-chief-justice-french-ac,div,class,itemFullText
+http://www.humanrights.gov.au/news/media-releases,div,class,view-content
