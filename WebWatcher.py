@@ -52,7 +52,8 @@ def get_markup(row, websiteNotFound, contentMissing):
     #Scrapes the page. If no such page, or if page has no content, this pushes errors to arrays for email
     print row[0]
     try:
-        urlHeaders = {"User-Agent": "Jason Thomas, journalist, SBS News, https://github.com/JasonThomasData/WebWatcher, jason.thomas(at)sbs.com.au", "Referer": "www.sbs.com.au/news"}
+        #I recommend you enter your details here. If we want governments to be more open, than so should we be transparent.
+        urlHeaders = {"User-Agent": "YOUR_NAME, YOUR_EMAIL, https://github.com/JasonThomasData/WebWatcher, ", "Referer": "YOUR_SITE_HERE"}
         r = requests.get(row[0], headers=urlHeaders, timeout=None)
     except IOError:
         websiteNotFound.append(row[0])
